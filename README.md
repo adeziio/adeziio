@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aden
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently building a few new websites using ReactJS and a discord bot
+- 🌱 I’m currently building a few new websites using ReactJS and adding features to my discord bot
 - 💞️ I’m looking to collaborate on projects with people of similar interests
 - 📫 How to reach me --> adeziio@yahoo.com
 
