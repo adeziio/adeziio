@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Aden
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently building a utility website using ReactJS and adding new features to my discord bot
-- 💞️ I’m looking to collaborate on projects with people of similar interests
+- 👀👋 Hi, I’m Aden.
+- 💞️ Please check out my portfolio at [(https://adeziio.s3.amazonaws.com/portfolio/~)].
+- 🌱 Feel free to check out some of my recent apps/projects:
+- - https://gideon-ai.vercel.app/
+- - https://scorekeeperz.vercel.app/
+- - https://trivia-qz.vercel.app/
+- - https://horsegotchi.vercel.app/
+- - https://weather-adeziio.vercel.app/
+- - https://locator-adeziio.vercel.app/
+- - https://text-analysis.vercel.app/
+- - https://adeziio.s3.amazonaws.com/gallery/~
 - 📫 How to reach me --> adeziio@yahoo.com
 
 <!---
