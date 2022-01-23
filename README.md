@@ -8,7 +8,7 @@
 - - https://weather-adeziio.vercel.app/
 - - https://locator-adeziio.vercel.app/
 - - https://text-analysis.vercel.app/
-- - https://adeziio.s3.amazonaws.com/gallery/~
+- - [https://adeziio.s3.amazonaws.com/gallery/~]
 - 📫 How to reach me --> adeziio@yahoo.com
 
 <!---
