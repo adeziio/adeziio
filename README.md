@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aden.
-- 💞️ My portfolio is at -> [(https://adeziio.s3.amazonaws.com/portfolio/~)].
+- 💞️ My portfolio is at -> [https://adeziio.s3.amazonaws.com/portfolio/~].
 - 🌱 Feel free to check out some of my recent apps/projects 👀:
 - - https://gideon-ai.vercel.app/
 - - https://scorekeeperz.vercel.app/
