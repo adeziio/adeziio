@@ -10,7 +10,7 @@
 - - https://locator-adeziio.vercel.app/
 - - https://text-analysis.vercel.app/
 - - [https://adeziio.s3.amazonaws.com/gallery/~]
-- 📫 How to reach me --> adeziio@yahoo.com
+- 📫 How to reach me --> adeziio@yahoo.com or adeziio.t@gmail.com
 
 <!---
 adeziio/adeziio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
