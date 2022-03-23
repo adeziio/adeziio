@@ -3,12 +3,12 @@
 - 🌱 Feel free to check out some of my recent apps/projects 👀:
 - - https://waddlez.vercel.app/
 - - https://gideon-ai.vercel.app/
-- - https://scorekeeperz.vercel.app/
 - - https://trivia-qz.vercel.app/
-- - https://horsegotchi.vercel.app/
-- - https://weather-adeziio.vercel.app/
 - - https://locator-adeziio.vercel.app/
+- - https://weather-adeziio.vercel.app/
 - - https://text-analysis.vercel.app/
+- - https://scorekeeperz.vercel.app/
+- - https://horsegotchi.vercel.app/
 - - [https://adeziio.s3.amazonaws.com/gallery/~]
 - 📫 How to reach me --> adeziio@yahoo.com or adeziio.t@gmail.com
 
