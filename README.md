@@ -10,7 +10,9 @@
 - - https://scorekeeperz.vercel.app/
 - - https://horsegotchi.vercel.app/
 - - [https://adeziio.s3.amazonaws.com/gallery/~]
-- 📫 How to reach me --> adeziio@yahoo.com or adeziio.t@gmail.com
+- 📫 How to reach me: 
+- - email: adeziio@yahoo.com or adeziio.t@gmail.com
+- - phone: (703) 663-0098
 
 <!---
 adeziio/adeziio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
