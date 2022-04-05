@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aden.
-- 💞️ My portfolio is at -> [https://adentran.vercel.app]
+- 💞️ My portfolio is at -> https://adentran.vercel.app
 - 🌱 Feel free to check out some of my recent apps/projects 👀:
 - - https://waddlez.vercel.app/
 - - https://gideon-ai.vercel.app/
