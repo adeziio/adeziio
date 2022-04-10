@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aden.
 - 💞️ My portfolio is at -> https://adentran.vercel.app
 - 🌱 Feel free to check out some of my recent apps/projects 👀:
+- - https://stargallery.vercel.app/
 - - https://waddlez.vercel.app/
 - - https://gideon-ai.vercel.app/
 - - https://trivia-qz.vercel.app/
@@ -9,7 +10,6 @@
 - - https://text-analysis.vercel.app/
 - - https://scorekeeperz.vercel.app/
 - - https://horsegotchi.vercel.app/
-- - [https://adeziio.s3.amazonaws.com/gallery/~]
 - 📫 How to reach me: 
 - - email: adeziio@yahoo.com or adeziio.t@gmail.com
 - - phone: (703) 663-0098
