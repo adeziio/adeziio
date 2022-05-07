@@ -4,10 +4,10 @@
 - - https://stargallery.vercel.app/
 - - https://waddlez.vercel.app/
 - - https://gideon-ai.vercel.app/
+- - https://text-analysis.vercel.app/
 - - https://trivia-qz.vercel.app/
 - - https://locator-adeziio.vercel.app/
 - - https://weather-adeziio.vercel.app/
-- - https://text-analysis.vercel.app/
 - - https://scorekeeperz.vercel.app/
 - - https://horsegotchi.vercel.app/
 - 📫 How to reach me: 
