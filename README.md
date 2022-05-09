@@ -3,10 +3,10 @@
 - 🌱 Feel free to check out some of my recent apps/projects 👀:
 - - https://stargallery.vercel.app/
 - - https://waddlez.vercel.app/
-- - https://gideon-ai.vercel.app/
+- - https://imaps.vercel.app/
 - - https://text-analysis.vercel.app/
+- - https://gideon-ai.vercel.app/
 - - https://trivia-qz.vercel.app/
-- - https://locator-adeziio.vercel.app/
 - - https://weather-adeziio.vercel.app/
 - - https://scorekeeperz.vercel.app/
 - - https://horsegotchi.vercel.app/
