@@ -7,11 +7,11 @@
 - - https://text-analysis.vercel.app/
 - - https://gideon-ai.vercel.app/
 - - https://trivia-qz.vercel.app/
-- - https://weather-adeziio.vercel.app/
+- - https://zweather.vercel.app/
 - - https://scorekeeperz.vercel.app/
 - - https://horsegotchi.vercel.app/
 - 📫 How to reach me: 
-- - email: adeziio@yahoo.com or adeziio.t@gmail.com
+- - email: adeziio@yahoo.com
 - - phone: (703) 663-0098
 
 <!---
