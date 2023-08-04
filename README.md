@@ -20,14 +20,14 @@ You can click the Preview link to take a look at your changes.
  🌱 https://starchat.vercel.app/
  
  🌱 https://stargallery.vercel.app/
+
+ 🌱 https://gideon-chat.vercel.app/
  
  🌱 https://waddlez.vercel.app/
  
  🌱 https://mylocator.vercel.app/
  
  🌱 https://text-analysis.vercel.app/
- 
- 🌱 https://gideon-chat.vercel.app/
  
  🌱 https://trivia-qz.vercel.app/
  
@@ -36,6 +36,8 @@ You can click the Preview link to take a look at your changes.
  🌱 https://scorekeeperz.vercel.app/
  
  🌱 https://horsegotchi.vercel.app/
+
+ 🌱 https://ourheartstrings.vercel.app/
  
  📫 How to reach me 📫 
  
