@@ -65,7 +65,7 @@ phone: (703) 663-0098
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,python,java,r,c,matlab,typescript,html,css,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,react,angular,express,flask,bootstrap,mui,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,git,react,angular,express,flask,bootstrap,mui,mysql,vscode,docker,selenium" />
 </div>
 
 <br/>
