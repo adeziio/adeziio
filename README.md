@@ -36,8 +36,6 @@ You can click the Preview link to take a look at your changes.
  🌱 https://scorekeeperz.vercel.app/
  
  🌱 https://horsegotchi.vercel.app/
-
- 🌱 https://ourheartstrings.vercel.app/
  
  📫 How to reach me 📫 
  
