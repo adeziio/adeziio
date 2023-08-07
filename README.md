@@ -17,25 +17,25 @@ You can click the Preview link to take a look at your changes.
  
  ⚡👀 Feel free to check out some of my recent apps/projects 👀⚡
  
- 🌱 https://starchat.vercel.app/
+ 🌱 https://starchat.vercel.app/ 🌱 
  
- 🌱 https://stargallery.vercel.app/
+ 🌱 https://stargallery.vercel.app/ 🌱 
 
- 🌱 https://gideon-chat.vercel.app/
+ 🌱 https://gideon-chat.vercel.app/ 🌱 
  
- 🌱 https://wordo-game.vercel.app/
+ 🌱 https://wordo-game.vercel.app/ 🌱 
  
- 🌱 https://mylocator.vercel.app/
+ 🌱 https://mylocator.vercel.app/ 🌱 
  
- 🌱 https://text-analysis.vercel.app/
+ 🌱 https://text-analysis.vercel.app/ 🌱 
  
- 🌱 https://trivia-qz.vercel.app/
+ 🌱 https://trivia-qz.vercel.app/ 🌱 
  
- 🌱 https://zweather.vercel.app/
+ 🌱 https://zweather.vercel.app/ 🌱 
  
- 🌱 https://scorekeeperz.vercel.app/
+ 🌱 https://scorekeeperz.vercel.app/ 🌱 
  
- 🌱 https://horsegotchi.vercel.app/
+ 🌱 https://horsegotchi.vercel.app/ 🌱 
  
  📫 How to reach me 📫 
  
