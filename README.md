@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
  🌱 https://gideon-chat.vercel.app/
  
- 🌱 https://waddlez.vercel.app/
+ 🌱 https://wordo-game.vercel.app/
  
  🌱 https://mylocator.vercel.app/
  
